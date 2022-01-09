@@ -1,5 +1,5 @@
 title = "Takayuki Tominaga"
-baseURL = "https://touka-tt.github.io/resume/"
+baseURL = "https://resume.tmng.me/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
