@@ -1,0 +1,22 @@
+[
+	{
+		"name":"Certified Scrum Developer",
+		"description": "Certified Scrum Developer",
+		"badge":"./img/seal-csd.png"
+	},
+	{
+		"name":"Certified Scrum Master",
+		"description": "Certified Scrum Master",
+		"badge":"./img/seal-csm.png"
+	},
+	{
+		"name":"Microsoft Certified: Azure Developer Associate",
+		"description": "Microsoft Certified: Azure Developer Associate",
+		"badge":"./img/associate.png"
+	},
+	{
+		"name":"Microsoft Certified: DevOps Engineer Expert",
+		"description": "Microsoft Certified: DevOps Engineer Expert",
+		"badge":"./img/expert.png"
+	}
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Lead Agile Developer",
+        "company":"Fujitsu, Ltd.",
+        "summary":"After experiencing Agile development at Pivotal (VMware Tanzu Labs), I launched the Agile development office at Fujitsu.\nTech leading of agile development team for trading system(CONNEQTOR) of Tokyo Stock Exchange. The programming languages used are Typescript and Kotlin, and the frameworks are React.js and Spring Boot. It is built on Microsoft Azure.",
+        "range":"November 2019 - Present"
+    },
+    {
+        "role":"Software Engineer",
+        "company":"Fujitsu, Ltd.",
+        "summary":"Operated and developed new functions for the TDnet (Timely Disclosure System) of the Tokyo Stock Exchange.",
+        "range":"April 2018 - October 2019"
+    },
+    {
+        "role":"Infrastructure Engineer",
+        "company":"Fujitsu, Ltd.",
+        "summary":"Operated and maintained the on-premise infrastructure of the Tokyo Stock Exchange.",
+        "range":"April 2015 - March 2018"
+    },
+    {
+        "role":"Software Engineer",
+        "company":"Fujitsu, Ltd.",
+        "summary":"Developed a timely disclosure system(TDnet) for the Tokyo Stock Exchange. The primary development languages are Java and C.",
+        "range":"February 2013 - March 2015"
+    },
+    {
+        "role":"iOS Application Engineer",
+        "company":"TRIART, Inc.",
+        "summary":"Developed an iOS-based telemedicine system.\nThe service was launched after a pilot project at a hospital in the Kumamoto-Aso area.",
+        "range":"February 2013 - March 2014"
+    }
+]

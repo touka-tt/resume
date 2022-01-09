@@ -1,0 +1,30 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":["Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":["Java","Kotlin","Typescript","Javascript","java","git","linux","bash","HTML","CSS"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":["React.js", "Spring Framework"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name": "Postgresql","icon":"postgresql"},
+        {"name": "MySQL","icon":"mysql"},
+        {"name": "MongoDB", "icon": "mongodb"},
+        {"name": "redis", "icon": "redis"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Microsoft Azure","link":"https://azure.microsoft.com/"},
+          {"name":"Docker","link":"https://docker.com"},
+          {"name": "Kubernetes","link": "https://kubernetes.io/"}
+      ]
+  }
+]
