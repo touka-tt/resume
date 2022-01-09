@@ -4,7 +4,7 @@ name: Build sites
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
