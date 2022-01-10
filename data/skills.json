@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Architecture",
-      "skills":["Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":["MicroServices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":["Java","Kotlin","TypeScript","JavaScript","git","Linux","bash","HTML","CSS"]
