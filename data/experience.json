@@ -2,13 +2,13 @@
     {
         "role":"Lead Agile Developer",
         "company":"Fujitsu, Ltd.",
-        "summary":"After experiencing Agile development at Pivotal (VMware Tanzu Labs), I launched the Agile development office at Fujitsu.\nTech leading of agile development team for trading system(CONNEQTOR) of Tokyo Stock Exchange. Lead the first agile development project for Tokyo Stock Exchange and also the first project with Microsoft Azure for the company.",
+        "summary":"After experiencing Agile development at Pivotal (VMware Tanzu Labs), I launched the Agile development office at Fujitsu.\nTechnical lead for the Tokyo Stock Exchange trading system(CONNEQTOR). Lead the first agile development project for Tokyo Stock Exchange and the first project with Microsoft Azure for the company.",
         "range":"November 2019 - Present"
     },
     {
         "role":"Lead Software Engineer",
         "company":"Fujitsu, Ltd.",
-        "summary":"Operated and developed new functions for a timely disclosure system(TDnet) of the Tokyo Stock Exchange.  As lead engineer, managed cost and schedule, design reviews and code reviews.",
+        "summary":"Managed and developed new functions for a timely disclosure system(TDnet) of the Tokyo Stock Exchange. Managed cost and schedule of new features development, responsible for design review and code review.\n",
         "range":"April 2018 - October 2019"
     },
     {
@@ -20,13 +20,13 @@
     {
         "role":"Software Engineer",
         "company":"Fujitsu, Ltd.",
-        "summary":"Developed a timely disclosure system(TDnet) for the Tokyo Stock Exchange.  Designed, developed and tested the search feature for disclosure documents.",
+        "summary":"Developed a timely disclosure system(TDnet) for the Tokyo Stock Exchange. Designed, developed, and tested the search feature for disclosure documents.",
         "range":"February 2013 - March 2015"
     },
     {
         "role":"iOS Application Engineer",
         "company":"TRIART, Inc.",
-        "summary":"Developed an iOS-based telemedicine system.\nThe service was launched after a pilot project at a hospital in the Kumamoto-Aso area.",
+        "summary":"Developed an iOS-based telemedicine system.\nThe system developed was launched after a trial at a hospital in the Kumamoto-Aso area.",
         "range":"February 2013 - March 2014"
     }
 ]
