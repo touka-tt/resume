@@ -2,25 +2,25 @@
     {
         "role":"Lead Agile Developer",
         "company":"Fujitsu, Ltd.",
-        "summary":"After experiencing Agile development at Pivotal (VMware Tanzu Labs), I launched the Agile development office at Fujitsu.\nTech leading of agile development team for trading system(CONNEQTOR) of Tokyo Stock Exchange. The programming languages used are Typescript and Kotlin, and the frameworks are React.js and Spring Boot. It is built on Microsoft Azure.",
+        "summary":"After experiencing Agile development at Pivotal (VMware Tanzu Labs), I launched the Agile development office at Fujitsu.\nTech leading of agile development team for trading system(CONNEQTOR) of Tokyo Stock Exchange. Lead the first agile development project for Tokyo Stock Exchange and also the first project with Microsoft Azure for the company.",
         "range":"November 2019 - Present"
     },
     {
-        "role":"Software Engineer",
+        "role":"Lead Software Engineer",
         "company":"Fujitsu, Ltd.",
-        "summary":"Operated and developed new functions for the TDnet (Timely Disclosure System) of the Tokyo Stock Exchange.",
+        "summary":"Operated and developed new functions for a timely disclosure system(TDnet) of the Tokyo Stock Exchange.  As lead engineer, managed cost and schedule, design reviews and code reviews.",
         "range":"April 2018 - October 2019"
     },
     {
         "role":"Infrastructure Engineer",
         "company":"Fujitsu, Ltd.",
-        "summary":"Operated and maintained the on-premise infrastructure of the Tokyo Stock Exchange.",
+        "summary":"Operated and maintained the on-premise infrastructure of the Tokyo Stock Exchange. Managed network switches and virtual machines for more than 10 information systems at TSE.",
         "range":"April 2015 - March 2018"
     },
     {
         "role":"Software Engineer",
         "company":"Fujitsu, Ltd.",
-        "summary":"Developed a timely disclosure system(TDnet) for the Tokyo Stock Exchange. The primary development languages are Java and C.",
+        "summary":"Developed a timely disclosure system(TDnet) for the Tokyo Stock Exchange.  Designed, developed and tested the search feature for disclosure documents.",
         "range":"February 2013 - March 2015"
     },
     {
