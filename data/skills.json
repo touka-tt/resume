@@ -4,7 +4,7 @@
       "skills":["Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":["Java","Kotlin","Typescript","Javascript","java","git","linux","bash","HTML","CSS"]
+      "skills":["Java","Kotlin","TypeScript","JavaScript","java","git","Linux","bash","HTML","CSS"]
   },
   {
       "grouping":"Platform Development & Administration",
@@ -13,10 +13,10 @@
   {
       "grouping":"Data Management",
       "skills":[
-        {"name": "Postgresql","icon":"postgresql"},
+        {"name": "PostgreSQL","icon":"postgresql"},
         {"name": "MySQL","icon":"mysql"},
         {"name": "MongoDB", "icon": "mongodb"},
-        {"name": "redis", "icon": "redis"}
+        {"name": "Redis", "icon": "redis"}
       ]
   },
   {
