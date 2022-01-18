@@ -12,11 +12,13 @@
 	{
 		"name":"Microsoft Certified: Azure Developer Associate",
 		"description": "Microsoft Certified: Azure Developer Associate",
-		"badge":"./img/associate.png"
+		"badge":"./img/associate.png",
+		"proof": "https://www.credly.com/badges/4158aec5-9065-4bcf-82b3-749ea6289b4f"
 	},
 	{
 		"name":"Microsoft Certified: DevOps Engineer Expert",
 		"description": "Microsoft Certified: DevOps Engineer Expert",
-		"badge":"./img/expert.png"
+		"badge":"./img/expert.png",
+		"proof": "https://www.credly.com/badges/360559c5-1d1f-464e-a22a-c216f6ec31d9"
 	}
 ]
