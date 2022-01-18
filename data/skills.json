@@ -26,5 +26,11 @@
           {"name":"Docker","link":"https://docker.com"},
           {"name": "Kubernetes","link": "https://kubernetes.io/"}
       ]
+  },
+  {
+    "grouping": "Develop Method",
+    "skills": [
+      "Agile", "Scrum", "XP", "TDD", "BDD"
+    ]
   }
 ]
