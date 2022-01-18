@@ -10,5 +10,10 @@
         "degree":"B.A in Computer Science",
         "major":"Artificial Intelligence",
         "range":"2009 - 2011"
+    },
+    {
+        "school": "[National Institute of Technology, Kurume College](https://www.kurume-nct.ac.jp/)",
+        "major": "Control and Information Systems Engineering",
+        "range": "2004 - 2009"
     }
 ]
