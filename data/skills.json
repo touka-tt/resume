@@ -4,11 +4,11 @@
       "skills":["MicroServices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":["Java","Kotlin","TypeScript","JavaScript","git","Linux","bash","HTML","CSS"]
+      "skills":["Java","Kotlin","TypeScript","JavaScript","Swagger","IntelliJ","git","Linux","bash","HTML5","SASS","CSS3","Photoshop","Illustrator"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":["React.js", "Spring Framework"]
+      "skills":["React","SpringBoot"]
   },
   {
       "grouping":"Data Management",
@@ -21,11 +21,7 @@
   },
   {
     "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"Microsoft Azure","link":"https://azure.microsoft.com/"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name": "Kubernetes","link": "https://kubernetes.io/"}
-      ]
+      "skills":["Azure", "Docker", "Kubernetes"]
   },
   {
     "grouping": "Develop Method",
