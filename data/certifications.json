@@ -22,5 +22,11 @@
 		"description": "Microsoft Certified: DevOps Engineer Expert",
 		"badge":"./img/expert.png",
 		"proof": "https://www.credly.com/badges/360559c5-1d1f-464e-a22a-c216f6ec31d9"
+	},
+	{
+		"name": "AWS Certified Cloud Practitioner",
+		"description": "AWS Certified Cloud Practitioner",
+		"badge": "./img/AWS-CloudPractitioner-2020.png",
+		"proof": "https://www.credly.com/badges/bfe400a8-cb39-4153-adcb-3753dbcba838"
 	}
 ]
