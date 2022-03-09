@@ -34,5 +34,11 @@
 		"description": "AWS Certified Solutions Architect – Associate",
 		"badge": "./img/AWS-SolArchitect-Associate-2020.png",
 		"proof": "https://www.credly.com/badges/8c9c3c62-6e37-4b53-bfa1-54fb01226f62"
+	},
+	{
+		"name": "AWS Certified Developer – Associate",
+		"description": "AWS Certified Developer – Associate",
+		"badge": "./img/AWS-Developer-Associate-2020.png",
+		"proof": "https://www.credly.com/badges/b0f4dbd4-ff2c-4522-b074-69f50b24fdf4"
 	}
 ]
