@@ -1,9 +1,14 @@
 [
     {
+        "role": "Solutions Architect",
+        "company": "Amazon Web Services, Inc.",
+        "range": "May 2022 - Present"
+    },
+    {
         "role":"Lead Agile Developer",
         "company":"Fujitsu, Ltd.",
         "summary":"After experiencing Agile development at Pivotal (VMware Tanzu Labs), I launched the Agile development office at Fujitsu.\nTechnical lead for the Tokyo Stock Exchange trading system(CONNEQTOR). Lead the first agile development project for Tokyo Stock Exchange and the first project with Microsoft Azure.",
-        "range":"November 2019 - Present"
+        "range":"November 2019 - April 2022"
     },
     {
         "role":"Lead Software Engineer",
