@@ -40,5 +40,11 @@
 		"description": "AWS Certified Developer – Associate",
 		"badge": "./img/AWS-Developer-Associate-2020.png",
 		"proof": "https://www.credly.com/badges/b0f4dbd4-ff2c-4522-b074-69f50b24fdf4"
+	},
+	{
+		"name": "AWS Certified SysOps Administrator – Associate",
+		"description": "AWS Certified SysOps Administrator – Associate",
+		"badge": "./img/AWS-SysOpsAdministrator-Associate.png",
+		"proof": "https://www.credly.com/badges/71cb0d27-7fc8-4b26-bced-202827cf003c"
 	}
 ]
