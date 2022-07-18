@@ -46,5 +46,11 @@
 		"description": "AWS Certified SysOps Administrator – Associate",
 		"badge": "./img/AWS-SysOpsAdministrator-Associate.png",
 		"proof": "https://www.credly.com/badges/71cb0d27-7fc8-4b26-bced-202827cf003c"
+	},
+	{
+		"name": "AWS Certified Solutions Architect – Professional",
+		"description": "AWS Certified Solutions Architect – Professional",
+		"badge": "./img/AWS-SolArchitect-Professional-2020.png",
+		"proof": "https://www.credly.com/badges/37a844e6-4a1b-464d-856e-de205f069070"
 	}
 ]
