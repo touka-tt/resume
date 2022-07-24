@@ -20,5 +20,5 @@ I also work as a freelance web designer/video editor and build a better relation
 - Front-end development with React.js and Typescript.
 - Back-end development with Spring Framework and Java or Kotlin.
 - Designing infrastructure with AWS and Azure.
-- Build CD/CI pipelines with AWS CodePipeline, Azure Pipelines and GitHub Actions.
+- Build CD/CI pipelines with AWS CodePipeline, Azure Pipelines, and GitHub Actions.
 - Working experience as a tech lead in an agile development team.
