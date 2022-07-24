@@ -11,7 +11,7 @@ outputs:
 ---
 Working as a solution architect for the financial field on AWS.  
 Previously, I developed trading systems for the Tokyo Stock Exchange at Fujitsu for almost 10 years.  
-Working as a tech lead for an agile development team now.  
+And I was the technical lead for the Agile development team.  
 I also work as a freelance web designer/video editor and build a better relationship between IT and design.
 
 ### Summary
