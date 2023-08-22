@@ -42,6 +42,12 @@
 		"proof": "https://www.credly.com/badges/1126b9b0-1b9f-4e77-a07a-541a3b596209"
 	},
 	{
+		"name": "AWS Certified Advanced Networking – Specialty",
+		"description": "AWS Certified Advanced Networking – Specialty",
+		"badge": "./img/aws-certified-advanced-networking-specialty.png",
+		"proof": "https://www.credly.com/badges/2d4326f1-5ac3-4d37-854c-20d5139f38c8"
+	},
+	{
 		"name":"Certified Scrum Master",
 		"description": "Certified Scrum Master",
 		"badge":"./img/seal-csm.png",
