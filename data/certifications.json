@@ -36,16 +36,22 @@
 		"proof": "https://www.credly.com/badges/63282c50-36f9-44c0-842e-6855887cec09"
 	},
 	{
-		"name": "AWS Certified Data Analytics – Specialty",
-		"description": "AWS Certified Data Analytics – Specialty",
-		"badge": "./img/AWS-DataAnalyticsSpecialty.png",
-		"proof": "https://www.credly.com/badges/1126b9b0-1b9f-4e77-a07a-541a3b596209"
-	},
-	{
 		"name": "AWS Certified Advanced Networking – Specialty",
 		"description": "AWS Certified Advanced Networking – Specialty",
 		"badge": "./img/aws-certified-advanced-networking-specialty.png",
 		"proof": "https://www.credly.com/badges/2d4326f1-5ac3-4d37-854c-20d5139f38c8"
+	},
+	{
+		"name": "AWS Certified Database – Specialty",
+		"description": "AWS Certified Database – Specialty",
+		"badge": "./img/aws-certified-database-specialty.png",
+		"proof": "https://www.credly.com/badges/a08f6e13-4d59-41c4-bba7-324a2b0e98d0"
+	},
+	{
+		"name": "AWS Certified Data Analytics – Specialty",
+		"description": "AWS Certified Data Analytics – Specialty",
+		"badge": "./img/AWS-DataAnalyticsSpecialty.png",
+		"proof": "https://www.credly.com/badges/1126b9b0-1b9f-4e77-a07a-541a3b596209"
 	},
 	{
 		"name":"Certified Scrum Master",
