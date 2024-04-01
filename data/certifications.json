@@ -24,6 +24,12 @@
 		"proof": "https://www.credly.com/badges/71cb0d27-7fc8-4b26-bced-202827cf003c"
 	},
 	{
+		"name": "AWS Certified: Data Engineer – Associate",
+		"description": "AWS Certified: Data Engineer – Associate",
+		"badge": "./img/aws-certified-data-engineer-associate.png",
+		"proof": "https://www.credly.com/badges/cf543e27-ecd3-41d8-922f-d91c6b567f8b"
+	},
+	{
 		"name": "AWS Certified Solutions Architect – Professional",
 		"description": "AWS Certified Solutions Architect – Professional",
 		"badge": "./img/AWS-SolArchitect-Professional-2020.png",
@@ -64,17 +70,5 @@
 		"description": "Certified Scrum Developer",
 		"badge":"./img/seal-csd.png",
 		"proof": "https://bcert.me/sivktzktz"
-	},
-	{
-		"name":"Microsoft Certified: Azure Developer Associate",
-		"description": "Microsoft Certified: Azure Developer Associate",
-		"badge":"./img/associate.png",
-		"proof": "https://www.credly.com/badges/4158aec5-9065-4bcf-82b3-749ea6289b4f"
-	},
-	{
-		"name":"Microsoft Certified: DevOps Engineer Expert",
-		"description": "Microsoft Certified: DevOps Engineer Expert",
-		"badge":"./img/expert.png",
-		"proof": "https://www.credly.com/badges/360559c5-1d1f-464e-a22a-c216f6ec31d9"
 	}
 ]
