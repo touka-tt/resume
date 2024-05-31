@@ -54,6 +54,12 @@
 		"proof": "https://www.credly.com/badges/41ab243b-bb1e-4723-8367-e655272e3104"
 	},
 	{
+		"name": "AWS Certified Security – Specialty",
+		"description": "AWS Certified Security – Specialty",
+		"badge": "./img/aws-certified-security-specialty.png",
+		"proof": "https://www.credly.com/badges/189d78f4-eee6-424d-b0da-358e59cdcd7d"
+	},
+	{
 		"name": "AWS Certified Database – Specialty",
 		"description": "AWS Certified Database – Specialty",
 		"badge": "./img/aws-certified-database-specialty.png",
