@@ -6,6 +6,12 @@
 		"proof": "https://www.credly.com/badges/bfe400a8-cb39-4153-adcb-3753dbcba838"
 	},
 	{
+		"name": "AWS Certified AI Practitioner",
+		"description": "AWS Certified AI Practitioner",
+		"badge": "./img/AWS-Certified-AI-Practitioner.png",
+		"proof": "https://www.credly.com/badges/a8f63ca7-36d7-44be-b3f2-d90bcf4e11c4"
+	},
+	{
 		"name": "AWS Certified Solutions Architect – Associate",
 		"description": "AWS Certified Solutions Architect – Associate",
 		"badge": "./img/AWS-SolArchitect-Associate-2020.png",
@@ -28,6 +34,12 @@
 		"description": "AWS Certified: Data Engineer – Associate",
 		"badge": "./img/aws-certified-data-engineer-associate.png",
 		"proof": "https://www.credly.com/badges/cf543e27-ecd3-41d8-922f-d91c6b567f8b"
+	},
+	{
+		"name": "AWS Certified Machine Learning Engineer – Associate",
+		"description": "AWS Certified Machine Learning Engineer – Associate",
+		"badge": "./img/AWS-Certified-Machine-Learning-Engineer–Associate.png",
+		"proof": "https://www.credly.com/badges/e93658b5-c1f0-4b94-bfdb-94fce8e97fe6"
 	},
 	{
 		"name": "AWS Certified Solutions Architect – Professional",
