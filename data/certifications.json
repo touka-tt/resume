@@ -86,13 +86,13 @@
 	{
 		"name":"Certified Scrum Master",
 		"description": "Certified Scrum Master",
-		"badge":"./img/seal-csm.png",
+		"badge":"./img/sa-csm-600.png",
 		"proof": "https://bcert.me/svwgfvmtz"
 	},
 	{
 		"name":"Certified Scrum Developer",
 		"description": "Certified Scrum Developer",
-		"badge":"./img/seal-csd.png",
+		"badge":"./img/sa-csd-600.png",
 		"proof": "https://bcert.me/sivktzktz"
 	}
 ]
