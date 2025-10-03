@@ -30,6 +30,12 @@
 		"proof": "https://www.credly.com/badges/71cb0d27-7fc8-4b26-bced-202827cf003c"
 	},
 	{
+		"name": "AWS Certified CloudOps Engineer – Associate",
+		"description": "AWS Certified CloudOps Engineer – Associate",
+		"badge": "./img/AWS-Certified-CloudOps-Engineer–Associate.png",
+		"proof": "https://www.credly.com/badges/44653926-259e-427b-bb40-9d6b00ccca08"
+	},
+	{
 		"name": "AWS Certified: Data Engineer – Associate",
 		"description": "AWS Certified: Data Engineer – Associate",
 		"badge": "./img/aws-certified-data-engineer-associate.png",
