@@ -60,6 +60,12 @@
 		"proof": "https://www.credly.com/badges/63282c50-36f9-44c0-842e-6855887cec09"
 	},
 	{
+		"name": "AWS Certified Generative AI Developer - Professional",
+		"description": "AWS Certified Generative AI Developer - Professional",
+		"badge": "./img/aws-certified-generative-ai-developer-professional.png",
+		"proof": "https://www.credly.com/badges/c85f7b31-8dcf-4d68-b9bb-a7ed1095038a"
+	},
+	{
 		"name": "AWS Certified Advanced Networking – Specialty",
 		"description": "AWS Certified Advanced Networking – Specialty",
 		"badge": "./img/aws-certified-advanced-networking-specialty.png",
