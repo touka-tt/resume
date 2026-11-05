@@ -12,6 +12,12 @@
 		"proof": "https://www.credly.com/badges/a8f63ca7-36d7-44be-b3f2-d90bcf4e11c4"
 	},
 	{
+		"name": "AWS Certified AI Business Strategist",
+		"description": "AWS Certified AI Business Strategist",
+		"badge": "./img/aws-certified-ai-business-strategist.png",
+		"proof": "https://www.credly.com/earner/earned/badge/345e78c9-0141-456e-8986-fce60e6d5ef0"
+	},
+	{
 		"name": "AWS Certified Solutions Architect – Associate",
 		"description": "AWS Certified Solutions Architect – Associate",
 		"badge": "./img/AWS-SolArchitect-Associate-2020.png",
@@ -84,16 +90,10 @@
 		"proof": "https://www.credly.com/badges/189d78f4-eee6-424d-b0da-358e59cdcd7d"
 	},
 	{
-		"name": "AWS Certified Database – Specialty",
-		"description": "AWS Certified Database – Specialty",
-		"badge": "./img/aws-certified-database-specialty.png",
-		"proof": "https://www.credly.com/badges/a08f6e13-4d59-41c4-bba7-324a2b0e98d0"
-	},
-	{
-		"name": "AWS Certified Data Analytics – Specialty",
-		"description": "AWS Certified Data Analytics – Specialty",
-		"badge": "./img/AWS-DataAnalyticsSpecialty.png",
-		"proof": "https://www.credly.com/badges/1126b9b0-1b9f-4e77-a07a-541a3b596209"
+		"name": "Claude Certified Associate - Foundations",
+		"description": "Claude Certified Associate - Foundations",
+		"badge": "./img/claude-certified-associate-foundations.png",
+		"proof": "https://www.credly.com/earner/earned/badge/16d2d63e-6898-48a8-b48c-0ccd5728c963"
 	},
 	{
 		"name":"Certified Scrum Master",
