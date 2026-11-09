@@ -96,6 +96,12 @@
 		"proof": "https://www.credly.com/earner/earned/badge/16d2d63e-6898-48a8-b48c-0ccd5728c963"
 	},
 	{
+		"name": "Claude Certified Developer - Foundations",
+		"description": "Claude Certified Developer - Foundations",
+		"badge": "./img/claude-certified-developer-foundations.png",
+		"proof": "https://www.credly.com/earner/earned/badge/834fcbaf-f569-4a28-b601-142a6b067465"
+	},
+	{
 		"name":"Certified Scrum Master",
 		"description": "Certified Scrum Master",
 		"badge":"./img/sa-csm-600.png",
