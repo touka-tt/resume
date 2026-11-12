@@ -102,6 +102,18 @@
 		"proof": "https://www.credly.com/earner/earned/badge/834fcbaf-f569-4a28-b601-142a6b067465"
 	},
 	{
+		"name": "Claude Certified Architect - Foundations",
+		"description": "Claude Certified Architect - Foundations",
+		"badge": "./img/claude-certified-architect-foundations.png",
+		"proof": "https://www.credly.com/earner/earned/badge/0dfec371-9edd-4b9c-bd16-e40ca0c3c942"
+	},
+	{
+		"name": "Claude Certified Architect - Professional",
+		"description": "Claude Certified Architect - Professional",
+		"badge": "./img/claude-certified-architect-professional.png",
+		"proof": "https://www.credly.com/earner/earned/badge/24d8783d-ad6d-4ac1-8c50-2aad9c786e5a"
+	},
+	{
 		"name":"Certified Scrum Master",
 		"description": "Certified Scrum Master",
 		"badge":"./img/sa-csm-600.png",
