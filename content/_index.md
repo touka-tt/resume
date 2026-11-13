@@ -16,12 +16,13 @@ I also work as a freelance web designer/video editor and build a better relation
 
 ### Summary
 
-- Almost four years of experience as a solution architect in the financial sector at AWS.
-- All AWS certifications have been acquired.
-- Certified ScrumMaster and Certified Scrum Developer qualifications.
+- Almost four years of experience as a solutions architect in the financial sector at AWS.
 - Almost 15 years of IT development experience in financial sector.
+- All AWS certifications have been acquired.
+- All Anthropic certifications have been acquired.
+- Certified ScrumMaster and Certified Scrum Developer qualifications.
 - Front-end development with React.js and Typescript.
 - Back-end development with Spring Framework and Java or Kotlin.
-- Designing infrastructure with AWS and Azure.
+- Designing infrastructure with AWS and other cloud.
 - Build CD/CI pipelines with AWS CodePipeline, Azure Pipelines, and GitHub Actions.
 - Working experience as a tech lead in an agile development team.
